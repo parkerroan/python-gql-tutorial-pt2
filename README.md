@@ -1,4 +1,4 @@
-# How To Create A Python Backend: Flask REST API & GraphQL Server - Part 1
+# How To Create A Python Backend: Flask REST API & GraphQL Server - Part 2
 
 [Link To Tutorial](https://medium.com/@roanresources/how-to-create-a-python-backend-flask-rest-api-graphql-server-part-1-bded6f88f89)
 

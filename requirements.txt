@@ -1,3 +1,6 @@
 flask
 flask-restful
+Flask-GraphQL
+flask_sqlalchemy
+graphene_sqlalchemy
 qrcode[pil]
